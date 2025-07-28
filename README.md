@@ -6,8 +6,13 @@ I'm good at solving problems calmly and I try to write code that's clear and eff
 
 💡 About Me
 🔭 Full-Stack Developer with a backend bend — working with Node.js, Express.js, and secure REST APIs.
+
 🧠 currently learning DSA, and enjoys solving DSA problems ...
+
 💬 Ask me about React, Tailwind, JWT, MongoDB, MySQL, and APIs.
+
 🔄 I believe in clean code, caffeinated debugging, and crafting scalable backend architectures.
+
 🚀 Tech Stack
-HTML CSS JavaScript React Node.js Express.js MongoDB MySQL TailwindCSS Postman Git
+
+HTML CSS JavaScript React Node.js Express.js MongoDB MySQL TailwindCSS Postman Git, C++,OOPs,DSA(
