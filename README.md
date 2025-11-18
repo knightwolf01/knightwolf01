@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sanu Kumar Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [O-CD wallah](https://o-cd-wallah.onrender.com/)
+- 🔭 I’m currently working on [O-CD wallah](@Salvador_sks_bot)
 
 - 🌱 I’m currently learning **supabase, framermotion ,DSA(using C++) and exploring new technologies of MERN stack**
 
-- 🤝 I’m looking for help with [O-CD wallah](https://github.com/knightwolf01/O-CD-Wallah)
+- 🤝 I’m looking for help with [Salvador](https://github.com/knightwolf01)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lqzf.onrender.com/](https://portfolio-lqzf.onrender.com/)
 
